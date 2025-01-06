@@ -6,7 +6,7 @@
 ██║ ╚═╝ ██║██║██║ ╚███║██║     ██║   ██║  ██║███████╗██║ ╚██╗
 ╚═╝     ╚═╝╚═╝╚═╝  ╚══╝╚═╝     ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
----
+
 # Minitalk
 
 Minitalk is a project from the 42cursus that consists in creating a communication program between two processes. The goal is to create a client and a server that can communicate with each other using Unix signals.
